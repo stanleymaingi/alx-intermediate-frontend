@@ -1,0 +1,4 @@
+1. Installed Node.js on my system.
+2. Navigated to the project directory.
+3. Installed Sass version 3.7.4 using npm install sass@3.7.4.
+4. Verified the installation using the sass command.
